@@ -27,13 +27,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚀 Como executar
 
-Clone o projeto e acesse a pasta do mesmo.
-
-```bash
-$ git clone https://github.com/lweslen/questione.me
-$ cd questione.me
-```
-
 Para iniciá-lo, siga os passos abaixo:
 ```bash
 # Instalar as dependências
